@@ -3,6 +3,6 @@ This is PWD GENERATOR = password generator. In this tool, you can choose the len
 
 README 
 
-YOU CAN MAKE SO STRONG PASSWORDS WITH THIS TOOL. 
+WITH THIS TOOL, YOU CAN MAKE AS STRONG A PASSWORD AS YOU CAN. 
 
 MADE BY BORIX
